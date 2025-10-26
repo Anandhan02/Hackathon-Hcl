@@ -1,0 +1,8 @@
+fastapi
+strawberry-graphql[fastapi]
+motor
+pydantic
+uvicorn
+python-dotenv
+passlib[bcrypt]
+PyJWT
